@@ -33,6 +33,7 @@ ORDER BY state;
 There will be 6 records selected. These are the results that you should see:
 
 state
+
 --
 Arkansas
 California
